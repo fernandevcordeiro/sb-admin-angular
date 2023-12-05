@@ -3,6 +3,7 @@
 
 #layoutSidenav {
   display: flex;
+  background-color: #EFEFEF;
   // Wraps the .sb-sidenav element and sets the size
   #layoutSidenav_nav {
     flex-basis: $sidenav-base-width;
