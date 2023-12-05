@@ -13,6 +13,11 @@ export const sideNavSections: SideNavSection[] = [
         text: 'ADDONS',
         items: ['charts', 'tables'],
     },
+
+    // {
+    //     text: 'DISPOSITIVOS',
+    //     items: ['dashboard'],
+    // },
 ];
 
 export const sideNavItems: SideNavItems = {
