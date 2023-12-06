@@ -27,7 +27,7 @@ export const sideNavItems: SideNavItems = {
         // link: '/dashboard',
         icon: 'tachometer-alt',
         text: 'Dashboard',
-        link: '/dashboard/light',
+        link: '/dashboard',
     },
     layouts: {
         icon: 'columns',

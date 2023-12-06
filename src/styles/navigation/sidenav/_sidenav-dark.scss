@@ -2,32 +2,39 @@
 // Append .sb-sidenav-dark to .sb-sidenav to use
 
 .sb-sidenav-dark {
-  background-color: $sidenav-dark-bg;
-  color: $sidenav-dark-color;
+  background-color: #EFEFEF;
+  color: #84A98C;
   .sb-sidenav-menu {
     .sb-sidenav-menu-heading {
-      color: $sidenav-dark-heading-color;
+      // color: $sidenav-dark-heading-color;
+      color: #84A98C
     }
     .nav-link {
-      color: $sidenav-dark-link-color;
+      // color: $sidenav-dark-link-color;
+      color: #84A98C;
       .sb-nav-link-icon {
-        color: $sidenav-dark-icon-color;
+        // color: $sidenav-dark-icon-color;
+        color: #84A98C;
       }
       .sb-sidenav-collapse-arrow {
-        color: $sidenav-dark-icon-color;
+        // color: $sidenav-dark-icon-color;
+        color: #84A98C;
       }
       &:hover {
-        color: $sidenav-dark-link-active-color;
+        // color: $sidenav-dark-link-active-color;
+        color: black;
       }
       &.active {
-        color: $sidenav-dark-link-active-color;
+        // color: $sidenav-dark-link-active-color;
+        color: #84A98C;
         .sb-nav-link-icon {
-          color: $sidenav-dark-link-active-color;
+          // color: $sidenav-dark-link-active-color;
+          color: #84A98C;
         }
       }
     }
   }
   .sb-sidenav-footer {
-    background-color: $sidenav-dark-footer-bg;
+    background-color:  #EFEFEF;
   }
 }
